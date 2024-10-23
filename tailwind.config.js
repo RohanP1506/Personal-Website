@@ -2,9 +2,9 @@ tailwind.config = {
   theme: {
     extend: {
       colors: {
-        background: '#67e8f9',
-        text: '#ef4444',
-        buttons: '#4ade80',
+        background: '#083344',
+        text: '#d1d5db',
+        buttons: '#f2cdcd',
       }
     }
   }
